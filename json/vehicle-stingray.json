@@ -1,0 +1,320 @@
+{
+  "atoms": {
+    "stingray-02": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-03": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-04": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-05": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-14": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-15": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-23": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-24": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-25": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-26": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-33": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-34": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-35": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-36": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-37": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-38": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-42": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-43": {
+      "w": 4,
+      "h": 4,
+      "hp": 2
+    },
+    "stingray-47": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-48": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-49": {
+      "w": 1,
+      "h": 1,
+      "hp": 8
+    },
+    "stingray-50": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-51": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-52": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-57": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-58": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-59": {
+      "w": 1,
+      "h": 1,
+      "hp": 8
+    },
+    "stingray-60": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-61": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-62": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-67": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-68": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-69": {
+      "w": 1,
+      "h": 1,
+      "hp": 8
+    },
+    "stingray-72": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-77": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-78": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-79": {
+      "w": 1,
+      "h": 1,
+      "hp": 8
+    },
+    "stingray-83": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-84": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-85": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-86": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-87": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-88": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-93": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-94": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-95": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-96": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-104": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-105": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-112": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-113": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-114": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    },
+    "stingray-115": {
+      "w": 1,
+      "h": 1,
+      "hp": 2
+    }
+  },
+
+  "vehicle": {
+    "atoms": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-02","stingray-03","stingray-04","stingray-05",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-14","stingray-15",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-23","stingray-24","stingray-25","stingray-26",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-33","stingray-34","stingray-35","stingray-36","stingray-37","stingray-38",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-42","stingray-43",0,0,0,"stingray-47","stingray-48","stingray-49",0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-50","stingray-51","stingray-52",0,0,0,0,"stingray-57","stingray-58","stingray-59",0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-60","stingray-61","stingray-62",0,0,0,0,"stingray-67","stingray-68","stingray-69",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-72",0,0,0,0,"stingray-77","stingray-78","stingray-79",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-83","stingray-84","stingray-85","stingray-86","stingray-87","stingray-88",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-93","stingray-94","stingray-95","stingray-96",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-104","stingray-105",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"stingray-112","stingray-113","stingray-114","stingray-115",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+
+    "gizmos": [{
+      "modelName": "stingray-core",
+      "position": [ 10, 10 ],
+      "atoms": [[ 10, 10 ]],
+      "angle": 0
+    }, {
+      "modelName": "stingray-thruster-tail",
+      "position": [ 7, 11 ],
+      "atoms": [[ 7, 11 ]],
+      "angle": 0
+    }, {
+      "modelName": "stingray-thruster-tail",
+      "position": [ 7, 12 ],
+      "atoms": [[ 7, 12 ]],
+      "angle": 0
+    }, {
+      "modelName": "stingray-thruster",
+      "position": [ 11, 7 ],
+      "atoms": [[ 11, 7 ]],
+      "angle": 0
+    }, {
+      "modelName": "stingray-thruster",
+      "position": [ 11, 16 ],
+      "atoms": [[ 11, 16 ]],
+      "angle": 0
+    }, {
+      "modelName": "stingray-thruster",
+      "position": [ 12, 7 ],
+      "atoms": [[ 12, 7 ]],
+      "angle": 3.141592653589793
+    }, {
+      "modelName": "stingray-thruster",
+      "position": [ 12, 16 ],
+      "atoms": [[ 12, 16 ]],
+      "angle": 3.141592653589793
+    }, {
+      "modelName": "stingray-thruster-strafe",
+      "position": [ 12, 9 ],
+      "atoms": [[ 12, 9 ]],
+      "angle": 1.57079633
+    }, {
+      "modelName": "stingray-thruster-strafe",
+      "position": [ 12, 14 ],
+      "atoms": [[ 12, 14 ]],
+      "angle": -1.57079633
+    }]
+  }
+}

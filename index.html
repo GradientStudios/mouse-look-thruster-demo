@@ -1,1 +1,31 @@
-Testing 1 2 3
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>co.llide</title>
+</head>
+
+<body>
+  <!-- Main container. -->
+  <div role="main" id="main">
+    <div role="game" id="game">
+      <div id="left-bar">
+        <img id="collide-logo" src="images/logo-collide-240.png" alt="co.llide">
+        <p> Demo Controls: </p>
+        <p> 1-3: Choose Ship </p>
+        <p> Mouse move: Steer ship heading </p>
+        <p> WASD: Thrust forward / left / backward / right </p>
+      </div>
+      <div class="overlay-parent" id="canvas-wrapper">
+        <div class="overlay" id="game-overlay"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Application source. -->
+  <script data-main="src/client/config" src="vendor/require.js"></script>
+</body>
+</html>

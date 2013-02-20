@@ -1,0 +1,99 @@
+{
+  "gizmos": {
+    "stingray-core": {
+      "type": "core",
+      "graphics": "basic-core",
+
+      "reg": [ 2, 2 ],
+      "maxHp": 8,
+
+      "baseForce": 4,
+      "baseTorque": 1.6
+    },
+
+    "stingray-thruster": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 8
+    },
+
+    "stingray-thruster-tail": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 20
+    },
+
+    "stingray-thruster-strafe": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 20
+    },
+
+    "crow-core": {
+      "type": "core",
+      "graphics": "basic-core",
+
+      "reg": [ 2, 2 ],
+      "maxHp": 12,
+
+      "baseForce": 4,
+      "baseTorque": 1.6
+    },
+
+    "crow-thruster": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 22
+    },
+
+    "crow-thruster-forwardfacing": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 10
+    },
+
+    "gnat-core": {
+      "type": "core",
+      "graphics": "basic-core",
+
+      "reg": [ 2, 2 ],
+      "maxHp": 8,
+
+      "baseForce": 4,
+      "baseTorque": 1.6
+    },
+
+    "gnat-thruster": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 20
+    },
+
+    "gnat-thruster-strafe": {
+      "type": "thruster",
+      "graphics": "basic-thruster",
+
+      "reg": [ 0.5, 0.5 ],
+      "thrustOffset": [ -0.5, 0 ],
+      "force": 20
+    }
+  }
+}
