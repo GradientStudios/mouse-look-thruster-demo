@@ -1,0 +1,28 @@
+body {
+  font-family: Ubuntu, sans-serif;
+  background-color: #000;
+}
+
+#bar {
+  float: top;
+  padding: 10px 10px;
+  width: 748px;
+  background: #121212;
+  text-align: left;
+}
+
+#controls {
+  position: relative;
+}
+
+#instructions {
+  color: #2abadb;
+  font-size: 1em;
+}
+
+#gui-wrapper {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: inline-block;
+}

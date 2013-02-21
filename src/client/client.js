@@ -116,7 +116,10 @@ require([
   simulation.setDebugCameraOnActor( vehicle.physics );
 
   // create gui for adjusting thruster ai weights and hook up to vehicle
-  var gui = new GUI();
+  var gui = new GUI({ autoPlace: false });
+
+  var guiContainer = jQuery( '#gui-wrapper' );
+  guiContainer.append( gui.domElement );
 
   var weightSettings = gui.addFolder( 'Thruster AI Weights' );
   weightSettings.add( vehicle.thrusterAI, 'weightF' ).min( 0 );

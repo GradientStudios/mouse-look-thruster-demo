@@ -6,24 +6,28 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   <title>co.llide</title>
+
+  <!-- Application styles. -->
+  <link rel="stylesheet" href="index.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Glegoo" rel="stylesheet" type="text/css">
 </head>
 
 <body>
   <!-- Main container. -->
-  <div role="main" id="main">
-    <div role="game" id="game">
-      <div id="left-bar">
-        <img id="collide-logo" src="images/logo-collide-240.png" alt="co.llide">
-        <p> Demo Controls: </p>
+  <div id="bar">
+    <img id="collide-logo" src="images/logo-collide-240.png" alt="co.llide">
+    <div id="controls">
+      <div id="instructions">
+        <h3>Demo Controls:</h3>
         <p> 1-3: Choose Ship </p>
         <p> Mouse move: Steer ship heading </p>
         <p> WASD: Thrust forward / left / backward / right </p>
       </div>
-      <div class="overlay-parent" id="canvas-wrapper">
-        <div class="overlay" id="game-overlay"></div>
-      </div>
+      <div id="gui-wrapper"></div>
     </div>
   </div>
+  <div id="canvas-wrapper"></div>
 
   <!-- Application source. -->
   <script data-main="src/client/config" src="vendor/require.js"></script>
