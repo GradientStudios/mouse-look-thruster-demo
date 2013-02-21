@@ -42,8 +42,6 @@ require([
   GUI
 ) {
 
-  var gui = new GUI();
-
   var junkyardPath = 'json/junkyard.json';
 
   var loadedJunkyard = when.defer();
@@ -117,6 +115,16 @@ require([
   vehicle.physics.setSimulation( simulation );
   simulation.setDebugCameraOnActor( vehicle.physics );
 
+  // create gui for adjusting thruster ai weights and hook up to vehicle
+  var gui = new GUI();
+
+  var weightSettings = gui.addFolder( 'Thruster AI Weights' );
+  weightSettings.add( vehicle.thrusterAI, 'weightF' ).min( 0 );
+  weightSettings.add( vehicle.thrusterAI, 'weightR' ).min( 0 );
+  weightSettings.add( vehicle.thrusterAI, 'weightT' ).min( 0 );
+  weightSettings.open();
+
+  // load junkyard and initial vehicle
   loadedJunkyard.then( function( data ) {
     Gizmo.loadJunkyardJSON( data );
     loadVehicle( 0 );
