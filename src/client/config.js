@@ -11,6 +11,7 @@ require.config({
     when: '../../vendor/when/when',
     jQuery: '../../vendor/jquery',
     Backbone: '../../vendor/backbone',
+    GUI: '../../vendor/dat.gui.min',
 
     // shared modules
     '2D': '../shared/2d',
@@ -60,6 +61,9 @@ require.config({
     Backbone: {
       deps: [ 'jQuery', 'vendor/underscore' ],
       exports: 'Backbone'
+    },
+    GUI: {
+      exports: 'dat.gui.GUI'
     }
   }
 });

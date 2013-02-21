@@ -19,6 +19,7 @@ require([
   'Gizmo',
   'InputController',
   'Physics',
+  'GUI',
   // These don't need to be exported, we just need them loaded.
   '2D',
   'MouseLookThrusterAI',
@@ -37,8 +38,11 @@ require([
   when,
   Gizmo,
   InputController,
-  Physics
+  Physics,
+  GUI
 ) {
+
+  var gui = new GUI();
 
   var junkyardPath = 'json/junkyard.json';
 
